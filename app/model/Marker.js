@@ -1,8 +1,5 @@
 Ext.define("test.model.Marker", {
 	extend: "Ext.data.Model",
-	//requires: [
-     //   'Ext.data.identifier.Uuid'
-    //],
 	config: {
 		fields: [
 			{name: "markerID", type:"string"},
