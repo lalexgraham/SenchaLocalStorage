@@ -1,0 +1,3 @@
+localStorage demo checks if localStorage store has data
+if none found loads from proxy using JSONP to save to localstorage
+then sets list to use localStorage demo
